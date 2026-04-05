@@ -51,13 +51,6 @@ Only **Falcon 9 launches** were retained for analysis.
 
 ---
 
-## Models Trained
-
-- **Logistic Regression** (baseline)
-- **Random Forest Classifier** (balanced class weights)
-
----
-
 ## 📊 Results Summary
 
 | Model | Accuracy | Strengths | Limitations |
